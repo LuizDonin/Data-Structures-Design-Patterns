@@ -1,0 +1,45 @@
+# Arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos e pastas de cache do Unity
+[Ll]ibrary/
+[Tt]emp/
+Obj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+
+# Arquivos do Visual Studio
+.vscode/
+.idea/
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Arquivos específicos de Editor
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.tmproj
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de configuração do pacote
+*.apk
+*.aab
+
+# Configurações de NuGet
+.nuget/
+
+# Configurações de Gerenciamento de Pacotes
+*.lock
